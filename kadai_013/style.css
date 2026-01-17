@@ -133,7 +133,7 @@ PC用のスタイル
     color: #ffffff;
   }
 
-  #nav-sp.menu {
+  #nav-sp .menu {
     text-decoration: none;
     display: block;
     margin: 0 20px;
